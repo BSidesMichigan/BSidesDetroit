@@ -1,0 +1,3 @@
+# BSides Michigan
+## BSides Detroit
+
