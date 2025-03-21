@@ -13,13 +13,13 @@ author: BSides Michigan
 ###############################################
 
 navbar-links:
-  2025 Event: 
-    - Tickets: "2025/tickets"
-    - Venue: "2025/venue"
-    - Hotel: "2025/hotel"
-    - Schedule: "2025/schedule"
-    - Speakers: "2025/speakers"
-    - Sponsors: "2025/sponsors"
+  # 2025 Event: 
+  #   - Tickets: "2025/tickets"
+  #   - Venue: "2025/venue"
+  #   - Hotel: "2025/hotel"
+  #   - Schedule: "2025/schedule"
+  #   - Speakers: "2025/speakers"
+  #   - Sponsors: "2025/sponsors"
   Past Events: "past-events"
   Code of Conduct: "code-of-conduct"
   Discord: "discord"
@@ -310,6 +310,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - 2025/
   - Dockerfile
   - docker-compose.yml
 
